@@ -1,0 +1,106 @@
+<h1 align="center">Hi , I'm muqadas Rasool</h1>
+<h3 align="center">
+Linux Administrator | Python Developer | Automation Engineer
+</h3>
+<p align="center">
+Passionate about Linux systems, Python automation, cloud infrastructure, and cybersecurity.
+</p>
+
+---
+
+##  About Me
+
+-  Working as a **Linux Admin** at [Vectar.com](https://vectar.com)
+-  **Python Automation Engineer**
+-  Experienced with **Linux Servers & Networking**
+-  Currently learning **DevOps & Advanced Automation**
+-  Love solving real-world Linux and scripting problems
+
+---
+
+##  Tech Stack
+
+###  Operating Systems
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
+
+###  Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+###  Technologies
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Python Automation Tools
+- Web Automation Scripts
+- Bulk URL Opener
+- Data Scraping Tools
+- Flask Web Applications
+
+### 🔹 Linux Administration
+-  Server Setup & Configuration
+-  User & Permission Management
+-  Shell Automation
+-  Security Hardening
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GhulamRasool&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhulamRasool&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhulamRasool&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+##Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,python,bash,flask,git,github,vscode" />
+</p>
+
+---
+
+##  Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+&nbsp;
+<a href="https://github.com/GhulamRasool">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+---
+
+##  Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GhulamRasool&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+##  Motto
+> *"Automate everything possible."*
